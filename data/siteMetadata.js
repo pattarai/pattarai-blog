@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  title: "Pattarai's Blog",
+  author: 'Pattarai',
+  headerTitle: 'PattaraiBlog',
+  description: 'A blog created by Pattarai with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
@@ -10,12 +10,12 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  email: 'hello@pattarai.in',
+  github: 'https://github.com/pattarai',
+  twitter: 'https://twitter.com/licetpattarai',
+  facebook: 'https://www.facebook.com/LicetPattaraiAdmin',
+  youtube: 'https://www.youtube.com/channel/UC24MOAmQKzWK5-6DyUaa8Aw',
+  linkedin: 'https://www.linkedin.com/company/licetpattarai',
   locale: 'en-US',
   analytics: {
     // supports plausible, simpleAnalytics, umami or googleAnalytics
