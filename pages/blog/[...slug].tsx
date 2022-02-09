@@ -4,7 +4,7 @@ import { InferGetStaticPropsType } from 'next'
 import { allBlogs, allAuthors } from '.contentlayer/data'
 import type { Blog } from '.contentlayer/types'
 
-const DEFAULT_LAYOUT = 'PostLayout'
+const DEFAULT_LAYOUT = 'PostSimple'
 
 export function dateSortDesc(a: string, b: string) {
   if (a > b) return -1
