@@ -20,14 +20,16 @@ const LayoutWrapper = ({ children }: Props) => {
           <div>
             <div className="flex items-center justify-between">
               <div className="mr-5">
-                <Link href="https://www.pattarai.in/" aria-label="Pattarai Blog">
+                <Link href="https://www.pattarai.in/" aria-label="Pattarai Website">
                   <Logo width="auto" height="70px" />
                 </Link>
               </div>
               {typeof siteMetadata.headerTitle === 'string' ? (
-                <div className="hidden h-6 text-2xl font-semibold sm:block">
-                  {siteMetadata.headerTitle}
-                </div>
+                <Link href="/" aria-label="Pattarai Blog">
+                  <div className="hidden h-6 text-2xl font-semibold sm:block">
+                    {siteMetadata.headerTitle}
+                  </div>
+                </Link>
               ) : (
                 siteMetadata.headerTitle
               )}
