@@ -1,8 +1,9 @@
 const siteMetadata = {
   title: 'Pattarai | Blog',
   author: 'Pattarai',
-  headerTitle: 'Pattarai Blog',
-  description: 'A blog created by Pattarai with Next.js and Tailwind.css',
+  headerTitle: 'Blog',
+  description:
+    'We would like to spread our community and about us to budding engineers out there to know about us and join our tech-community.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: '',
