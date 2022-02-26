@@ -11,14 +11,12 @@ const NewsletterForm = ({ title = 'Subscribe to the newsletter' }) => {
   const subscribe = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault()
 
-    const res = await fetch(`/api/${siteMetadata.newsletter.provider}`, {
-      body: JSON.stringify({
-        email: inputEl.current.value,
-      }),
-      headers: {
-        'Content-Type': 'application/json',
-      },
+    const formData = new FormData()
+    formData.append('email', inputEl.current.value)
+
+    const res = await fetch(siteMetadata.newsletterEndpoint, {
       method: 'POST',
+      body: formData,
     })
 
     const { error } = await res.json()
