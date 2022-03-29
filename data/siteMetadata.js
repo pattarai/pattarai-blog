@@ -17,7 +17,7 @@ const siteMetadata = {
   facebook: 'https://www.facebook.com/LicetPattaraiAdmin',
   youtube: 'https://www.youtube.com/channel/UC24MOAmQKzWK5-6DyUaa8Aw',
   linkedin: 'https://www.linkedin.com/company/licetpattarai',
-  newsletterEndpoint: 'https://pattarai-utilities.herokuapp.com/subscribers',
+  newsletterEndpoint: 'https://pattarai-utilities-v2.herokuapp.com/subscribers',
   locale: 'en-US',
   analytics: {
     // supports plausible, simpleAnalytics, umami or googleAnalytics
