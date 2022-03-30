@@ -1,0 +1,25 @@
+---
+
+title: 'I&M'
+
+date: '20-02-2022'
+
+tags: ['innovation', 'media']
+
+draft: false
+
+summary: 'Curious name right ?To know more about us and to have a look at what we did Innovative and how we attracted you through the media, click here.'
+
+---
+
+# Innovation & Media
+
+When I came into the Media committee it the start of the 2nd phase, I was a bit scared because I wasn’t used to designing and softwares used for designing. Eventually I got the hang of designing and soon I was able to design to design posters and videos.
+
+At the end of 3rd Phase, we wanted to expand the committee and give a larger purpose. So we named the committee as Innovation and Media committee. By this name we mean that the committee will be responsible for all the media works and committee will be striving forward to bring media through innovation.
+
+Since the committee’s new inception, the committee has been working on all aspects of innovation using media. Some notable ones are the certificate generation through coding where you send in your certificate template and names, then it gives you the generated certificates. We also mad a Birthday wish web hook which is used to automate the birthday wishes of different members at Pattarai.
+
+The members who are a part of this committee will be exposed to various designing softwares and also they will taught basic design ethics to be followed while designing. The committee will not only be helping it’s members but it will also be helping other committee for examplehelping with the promotion of events for the Events Committee.
+
+I hope that in future this committee will be laying its hands on NFTs (Non – Fungible Tokens) which are the current trend in block chaintechnology and also other state of the art technologies also.
