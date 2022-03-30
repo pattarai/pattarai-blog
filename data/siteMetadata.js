@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Pattarai | Blog',
   author: 'Pattarai',
-  headerTitle: 'Blog',
+  headerTitle: 'Pattarai',
   description:
     'We would like to spread our community and about us to budding engineers out there to know about us and join our tech-community.',
   language: 'en-us',
