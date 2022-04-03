@@ -1,12 +1,12 @@
 const siteMetadata = {
-  title: 'Pattarai | Blog',
-  author: 'Pattarai',
-  headerTitle: 'Pattarai',
+  title: 'Blog | Pattarai',
+  author: 'Licet Pattarai',
+  headerTitle: 'Licet Pattarai',
   description:
-    'We would like to spread our community and about us to budding engineers out there to know about us and join our tech-community.',
+    'If you’re someone who keeps inventing new ideas along the way, with no proper platform to work on it, then you’ve reached the right place. “Pattarai” is a community of industrious engineers working to transform ideas into innovations! We have built this blog for you to get a deeper understanding of the things that we have been doing at the community and to share our adventures with technologies.',
   language: 'en-us',
-  theme: 'system', // system, dark or light
-  siteUrl: '',
+  theme: 'dark', // system, dark or light
+  siteUrl: 'https://blog.pattarai.in',
   siteRepo: 'https://github.com/pattarai/pattarai-blog',
   siteLogo: '/static/images/logo.svg',
   image: '/static/images/logo.svg',
