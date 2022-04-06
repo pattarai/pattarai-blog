@@ -21,7 +21,7 @@ const LayoutWrapper = ({ children }: Props) => {
           <div>
             <div className="flex items-center justify-between">
               <div className="mr-5 mt-1">
-                <Link href="https://www.pattarai.in/" aria-label="Pattarai Website">
+                <Link href="https://licet.ac.in/" aria-label="LICET Website">
                   <Image src="/static/images/licet.png" alt="Licet Logo" height={76} width={76} />
                 </Link>
               </div>
